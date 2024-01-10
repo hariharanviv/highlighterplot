@@ -3,6 +3,7 @@
 
 This R script is used to compare a set of DNA sequences to a reference sequence and visualize the differences using a plot.
 Currently, we are recapitulating the [LANL Highlighter tool](https://www.hiv.lanl.gov/content/sequence/HIGHLIGHT/highlighter_top.html) in R.
+The advantages to this repo over the LANL tool is that figures can be edited within the code and made to be publication-quality.
 
 Notably, this script handles deletions differently than the LANL tool, as deletions are assessed prior to mutations from a reference. 
 
@@ -23,7 +24,7 @@ The output is a plot that shows the differences between the reference sequence a
 
 ## Example
 The following is an example of the output of the script. The input is a FASTA file. FASTA and FAS files have been added to the .gitignore due to privacy and confidentiality concerns. This code can be run with any FASTA or FAS file.
-
+**The reference sequence is set to sequence #3.** 
 Apparently Github's markdown only supports PNGs and JPEGs. The PDF is in the repository. Therefore, the example will be switched to a PNG for use in this README.
 
 Please do not utilize dark mode when viewing this image as the image is transparent and some features may not be visible.
