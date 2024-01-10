@@ -9,7 +9,7 @@ Notably, this script handles deletions differently than the LANL tool, as deleti
 
 This application runs efficiently and can produce publication-quality plots. It is also easy to use and can be run on any computer with R installed.
 
-Unfortunately, this application is not yet available as a package. However, it can be run by downloading the R script and running it in any R environment.
+Unfortunately, this application is not yet available as a package. However, it can be run by downloading the R script and running it in any R environment. The code in the repo is written in a Jupyter notebook.
 
 Furthermore, there are some instances in the code where the user must manually change the code to fit their needs.
 
