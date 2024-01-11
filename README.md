@@ -39,5 +39,8 @@ This script requires the following R packages:
 ## Future Work
 * Alter the input of sequences based on an input file i.e., CSV, .nwk, etc.
 
+## Citation
+Please cite this repository if you use or fork this repo.
+
 ## Acknowledgements
 This script was inspired by the [LANL Highlighter tool](https://www.hiv.lanl.gov/content/sequence/HIGHLIGHT/highlighter_top.html). 
