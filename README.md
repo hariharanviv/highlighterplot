@@ -2,7 +2,7 @@
 **Vivek Hariharan, 2024-01-09**
 
 This R script is used to compare a set of DNA sequences to a reference sequence and visualize the differences using a plot.
-Currently, we are recapitulating the [LANL Highlighter tool](https://www.hiv.lanl.gov/content/sequence/HIGHLIGHT/highlighter_top.html) in R.
+This tool is heavily inspured by the [LANL Highlighter tool](https://www.hiv.lanl.gov/content/sequence/HIGHLIGHT/highlighter_top.html) in R.
 The advantages to this repo over the LANL tool is that figures can be edited within the code and made to be publication-quality.
 
 Notably, this script handles deletions differently than the LANL tool, as deletions are assessed prior to mutations from a reference. 
